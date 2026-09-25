@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-arcgis-pima",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Pima County GIS — Pima County, Arizona open geospatial data (ArcGIS).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-3c26c0823a2dd8d5fdbc1806fdc401f4bca8f55bd6351bbafbb33b997f1e21b6",
-    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
+    "sourceHash": "v1-8254ed9297b9132d27a27d23ad77047273fdeb1183652e6ed042a544069af8fa",
+    "sourceCommit": "454041882179fae560c06e770b6b7a2f33970015"
   }
 }
